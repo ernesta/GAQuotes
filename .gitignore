@@ -1,7 +1,3 @@
-# Libraries
-tweet/TwitterOAuth/
-admin/assets/bootstrap
-
 # Secret Stuff
 secrets.php
 
