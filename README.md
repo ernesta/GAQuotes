@@ -25,3 +25,6 @@ Both the bot and the admin panel require one additional file to work. `secrets.p
 
 + [ernes7a.lt](http://ernes7a.lt)
 + [@ernes7a](http://twitter.com/ernes7a)
+
+## Screenshot
+ ![@GAQuotesBot](http://raw.github.com/ernesta/GAQuotes/master/screen.png)
