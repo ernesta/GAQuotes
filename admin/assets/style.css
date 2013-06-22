@@ -1,0 +1,59 @@
+/* Everything */
+.container-fluid {
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+
+/* Navigation */
+.navbar .brand {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+
+/* Random Quote */
+#random {
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+#a, #s, #e {
+	font-size: 18px;
+}
+
+#a, #q {
+	color: #5A5A5A;
+}
+
+#s, #e {
+	color: #999;
+}
+
+#q {
+	font-size: 50px;
+	line-height: 60px;
+}
+
+
+/* Adding Quotes */
+#add {
+	margin-bottom: 50px;
+}
+
+#count {
+	margin-left: 5px;
+	color: #999;
+}
+
+
+/* Filter */
+#filter {
+	margin-bottom: 20px;
+}
+
+
+/* Table */
+.edit {
+	margin-right: 5px;
+}

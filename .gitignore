@@ -1,0 +1,14 @@
+# Libraries
+tweet/TwitterOAuth/
+admin/assets/bootstrap
+
+# Secret Stuff
+secrets.php
+
+# Editor Files
+*.esproj
+
+# OS Files
+.DS_Store
+.Trashes
+Thumbs.db
