@@ -20,6 +20,9 @@ Both the bot and the admin panel require one additional file to work. `secrets.p
 	define("OAUTH_TOKEN", "");
 	define("OAUTH_TOKEN_SECRET", "");
 
+## Libraries
+[Bootstrap](http://twitter.github.io/bootstrap/) does all the pretty interface magic, while [TwitterOAuth](https://github.com/abraham/twitteroauth) deals with Twitter authentication. Note that while both libraries are included in the repository, I am not going to keep them updated.
+
 ## Author
 **Ernesta Orlovaitė**
 
